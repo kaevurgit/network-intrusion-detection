@@ -6,7 +6,7 @@ Team members: Rasmus Simson, Mares Vassiljev
 
 Date: 23.05.2026
 
-Repository link: \[GitHub, GitLab or other public online repository\]
+Repository link: https://github.com/kaevurgit/network-intrusion-detection
 
 ### 1\. Approach
 
